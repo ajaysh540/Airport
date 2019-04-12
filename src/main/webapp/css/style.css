@@ -1,0 +1,66 @@
+@charset "ISO-8859-1";
+
+body {
+	width: 100%;
+	display: block;
+	height: 100%;
+	align: center;
+	text-align: center;
+	align-content: center;
+	vertical-align: middle;
+}
+.name {
+	width: 20;
+}
+.logo {
+	width: 20%;
+}
+.logoimg {
+	width: 100%;
+}
+.table {
+	width: 100%;
+	broder: 0px solid;
+	padding: 0px 0px 0px 0px;
+	border: none;
+	background-color: grey;
+	margin: 0px 0px 0px 0px;
+}
+.logout {
+	width: 20%;
+}
+.logoutbtn{
+background-color:black;
+color:white;
+border-radius:10px;
+width:25%;
+border:solid black;
+}
+input {
+	border-radius: 20px;
+	background-color: black;
+	padding-left: 8px;
+	color: white;
+	border: none;
+	border-width: 0px;
+	border-style: solid;
+	font-size: 20px;
+	height: 25px;
+	margin-bottom: 5px;
+	font-family: Arial, sans-serif;
+}
+.tablew {
+	margin-left: 40%;
+	margin-right: 30%;
+}
+table{
+	width:100%;
+
+	border-bottom:2px solid black;
+}
+tr{
+	align-text:left;
+}
+td{
+	align-text:left;
+}
